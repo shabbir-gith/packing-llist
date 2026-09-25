@@ -1,0 +1,6 @@
+{
+  "name": "Packing List 100",
+  "description": "Professional packing list application for tracking up to 100 items with serial numbers, customer details, dates, packing status, and manifest sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
